@@ -1,0 +1,4 @@
+This was originally designed to be laser cut out of 3/16 nominal dimension acrylic, which comes in at around .171" thick in real life. I have included the solidworks files so that you can change the thickness, but the model will require some significant rework if you do that. 
+
+The tabs are designed to be a close fit. The tabs are designed with male and female being exactly the same size, so it relies on the laser kerf width to provide clearance for assembly. The box is meant to be glued together. 
+
